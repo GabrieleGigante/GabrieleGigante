@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GabrieleGigante&include_all_commits=true&count_private=true&show_icons=true&theme=dracula" alt="my Github Stats"/>
 
 <h1> Favorite programming languages </h1>
 <img align="left" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="dart" />
